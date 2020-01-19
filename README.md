@@ -1,30 +1,52 @@
-# SRFI Template
+# Title
 
-## Status
+Title
+
+# Author
+
+Firstname Lastname
+
+# Status
 
 Early Draft
 
-## Abstract
+# Abstract
 
-Two or three sentences about what library this SRFI describes.
+??? abstract, preferably shorter than 200 words. Please outline the
+need for, and design of, the proposal.
 
-## Rationale
+# Issues
 
-Explain why it is useful and how it can be put to good use.
+??? Optional section that may point out things to be resolved. This
+will not appear in the final SRFI.
 
-## Specification
+# Rationale
 
-Body of the specification
+??? detailed rationale. This should be 200-500 words long. Please
+explain why the proposal should be incorporated as a standard feature
+in Scheme implementations. List related standards and SRFIs, including
+dependencies, conflicts, and replacements. If there are other
+standards which this proposal will replace or with which it will
+compete, please explain why the present proposal is a substantial
+improvement.
 
-## Implementation
+# Specification
 
-Link to the sample implementation
+??? detailed specification. This should be detailed enough that a
+conforming implementation could be completely created from this
+description.
 
-## Acknowledgements
+# Implementation
+
+??? explanation of how it meets the sample implementation requirement
+(see process), and the code, if possible, or a link to it Source for
+the sample implementation.
+
+# Acknowledgements
 
 Give credits where credits is due.
 
-## Copyright
+# Copyright
 
 Copyright (C) Firstname Lastname (20XY).
 
