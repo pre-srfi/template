@@ -1,10 +1,6 @@
-# Title
+# SRFI nnn: Title
 
-Title
-
-# Author
-
-Firstname Lastname
+by Firstname Lastname, Another Person, Third Person
 
 # Status
 
@@ -44,7 +40,12 @@ the sample implementation.
 
 # Acknowledgements
 
-Give credits where credits is due.
+??? Give credits where credits is due.
+
+# References
+
+??? Optional section with links to web pages, books and papers that
+helped design the SRFI.
 
 # Copyright
 
