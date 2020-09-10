@@ -30,6 +30,16 @@ standards which this proposal will replace or with which it will
 compete, please explain why the present proposal is a substantial
 improvement.
 
+## Survey of prior art
+
+GitHub's version of Markdown can make tables. For example:
+
+| System        | Procedure | Signature                 |
+| ------------- |:---------:| ------------------------- |
+| System A      | `jumble`  | _list_ _elem_             |
+| System B      | `bungle`  | _elem_ _list_             |
+| System C      | `frob`    | _list_ _elem_ _predicate_ |
+
 # Specification
 
 ??? detailed specification. This should be detailed enough that a
