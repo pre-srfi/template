@@ -1,10 +1,6 @@
-# Title
+# SRFI nnn: Title
 
-Title
-
-# Author
-
-Firstname Lastname
+by Firstname Lastname, Another Person, Third Person
 
 # Status
 
