@@ -42,6 +42,8 @@ GitHub's version of Markdown can make tables. For example:
 conforming implementation could be completely created from this
 description.
 
+## Examples
+
 ## Implementation
 
 ??? explanation of how it meets the sample implementation requirement
